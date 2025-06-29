@@ -1,0 +1,18 @@
+Thanks for downloading my awsome python project
+
+this project is made by:
+NtrepidGamer!
+
+For macOS and linux users you need to run the non-transparent version as the transparent version does not work. I used windows for this project and windows code for the game.
+
+instructions macOS/linux:
+1. chmod +x dependancies[OS type].sh
+1. run the dependancies installer according to your system with ./dependancies[OS type].sh
+    - optional: download python seperatly except on macOS
+2. if no errors do NOT delete the dependancies installer
+3. run the game
+
+instructions windows:
+1. run the dependancies installer according to your system
+2. if no errors do NOT delete the dependancies installer
+3. have fun!
